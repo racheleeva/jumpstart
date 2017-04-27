@@ -1,0 +1,7 @@
+
+/*Step 7, Bootstrap Overrides*/
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: inherit;
+  color: #399bd1;
+}
